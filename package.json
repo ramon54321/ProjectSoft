@@ -1,0 +1,19 @@
+{
+  "name": "soft-theme",
+  "displayName": "Soft Theme",
+  "version": "0.0.1",
+  "publisher": "Ramon Brand",
+  "license": "MIT",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Soft Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/soft-color-theme.json"
+      }
+    ]
+  }
+}
