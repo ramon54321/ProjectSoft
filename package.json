@@ -2,8 +2,11 @@
   "name": "soft-theme",
   "displayName": "Soft Theme",
   "version": "0.0.1",
-  "publisher": "Ramon Brand",
+  "publisher": "ramon",
   "license": "MIT",
+	"engines": {
+		"vscode": "^1.45.0"
+	},
   "categories": [
     "Themes"
   ],
